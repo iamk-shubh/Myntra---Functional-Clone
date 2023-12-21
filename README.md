@@ -29,7 +29,8 @@ Features:-
 
 
 
-Usage
+USAGE:-
+
 Clone the repository: git clone https://github.com/your-username/myntra-clone.git
 Open the index.html file in your preferred web browser.
 Explore the Myntra clone and simulate the shopping experience.
@@ -42,5 +43,7 @@ Submit a pull request.
 Sample Items
 The project includes a set of sample items with diverse characteristics. Each item has an ID, image, company name, item name, original price, current price, discount percentage, return period, delivery date, and rating details.
 
-Contributions
+
+Contributions:-
+
 Contributions are welcome! Feel free to submit issues or pull requests.
