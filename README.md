@@ -2,9 +2,11 @@ Myntra Clone
 
 
 OVERVIEW:-
+
 This project is a functional clone of the Myntra e-commerce platform, developed using HTML, CSS, and JavaScript. It provides a user-friendly interface for browsing and shopping for various fashion items.
 
 Features:-
+
   Responsive Design: The website is designed to be accessible and responsive across different devices, ensuring a seamless user experience.
   
   Shopping Bag Functionality: Users can add items to their shopping bag, which is stored locally using localStorage. The bag icon dynamically updates with the number of items.
