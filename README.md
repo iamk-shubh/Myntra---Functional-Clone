@@ -31,19 +31,20 @@ Features:-
 
 USAGE:-
 
-Clone the repository: git clone https://github.com/your-username/myntra-clone.git
-Open the index.html file in your preferred web browser.
-Explore the Myntra clone and simulate the shopping experience.
-Contributing
-Fork the repository.
-Create a new branch: git checkout -b feature-new-feature.
-Make changes and commit: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature-new-feature.
-Submit a pull request.
+  Open the index.html file in your preferred web browser.
+  Explore the Myntra clone and simulate the shopping experience.
+  Contributing
+  Fork the repository.
+  Create a new branch: git checkout -b feature-new-feature.
+  Make changes and commit: git commit -m 'Add new feature'.
+  Push to the branch: git push origin feature-new-feature.
+  Submit a pull request.
+
 Sample Items
-The project includes a set of sample items with diverse characteristics. Each item has an ID, image, company name, item name, original price, current price, discount percentage, return period, delivery date, and rating details.
+
+  The project includes a set of sample items with diverse characteristics. Each item has an ID, image, company name, item name, original price, current price, discount percentage, return period, delivery date, and rating    details.
 
 
 Contributions:-
 
-Contributions are welcome! Feel free to submit issues or pull requests.
+  Contributions are welcome! Feel free to submit issues or pull requests.
